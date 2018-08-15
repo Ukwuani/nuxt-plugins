@@ -8,11 +8,11 @@ import Axios from 'axios'
  * @var {object}
  */
 const config = {
-	appId: 'XQ3hkwGKgiJtbf0qkjUuASHE79QwPI9QZHyMlYCP',
-	restApiKey: 'fMzCnhSIMJrGcDYRXKbYRZg0UtTvrT9bGCgwZiwn',
-	serverURL: 'https://parseapi.back4app.com/',
-	clientKey: 's8SzrT9CiyQXMdTCIx17ZAxEIs3gsub7EHwUf4Sp',
-	masterKey: 'jofyR5NggpBzAgr95YVlwWstlKRKaK3Etl3SZQon'
+	appId: '<PARSE-APP-ID>',
+	restApiKey: '<PARSE-REST-API-KEY>',
+	serverURL: '<PARSE-SERVER-URL>',
+	clientKey: '<PARSE-CLIENT-KEY>',
+	masterKey: '<PARSE-MASTER-KEY>'
 }
 
 /**
