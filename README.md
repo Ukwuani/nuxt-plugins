@@ -5,7 +5,7 @@ This plugin ships with and should be used with **`axios`** and **`parse-server`*
 
 ## Configuration & Setup
 
-1 Pull this repo
+1 Clone this repo `https://github.com/dare-mcadewole/nuxt-plugins.git`
 
 2 Make sure the `Auth` folder, `axios.js` and `parse-server.js` are in Nuxt's `plugin` directory
 
