@@ -71,4 +71,4 @@ this.$objs.delete('xxYYNUI4')
 ```
 
 #👏 Dare MCAdewole
-`Authur: Ukwuani Barnabas` 
+`Author: Ukwuani Barnabas` 
