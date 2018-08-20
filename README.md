@@ -135,9 +135,9 @@ You can
     ```
 
 
-##### Done with Auth? Now communicating with Classes?
+## Done with Auth? Now communicating with Classes?
 
-#### Performing CRUD on Classes || create, read, update and delete.
+## Performing CRUD on Classes || create, read, update and delete.
 
 
 ### Creating an Object
